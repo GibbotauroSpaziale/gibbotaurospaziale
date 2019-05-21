@@ -1,4 +1,12 @@
 .my-center{
 	display: table;
 	margin: 0 auto;
+	max-width: 80%;
+}
+
+.my-center-main-page{
+	display: table;
+	margin: 0 auto;
+	margin-top: 3%;
+	max-width: 90%;
 }
